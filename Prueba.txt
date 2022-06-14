@@ -3,3 +3,7 @@ Esta es una prueba para practica git.
 Prueba 1
 
 Hare commit solo a esto.
+
+Prueba 2
+
+Ahora hare otro commit para empezar a hacer cambios con checkout
