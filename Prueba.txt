@@ -7,3 +7,7 @@ Hare commit solo a esto.
 Prueba 2
 
 Ahora hare otro commit para empezar a hacer cambios con checkout
+
+Prueba 3
+
+Esta sera la ultima prueba, empezare a jugar con el checkout
